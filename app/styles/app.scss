@@ -5,9 +5,9 @@
 @import "bourbon";
 @import "base/base";
 @import "neat";
-// @import "components/all";
-// @import "vendor-overwrites";
-// @import 'fonts/fontello';
+@import "components/all";
+@import "vendor-overwrites";
+@import 'fonts/fontello';
 
 .note {
   background: rgba(0,0,0, 0.2);
