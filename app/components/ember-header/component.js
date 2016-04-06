@@ -1,0 +1,1 @@
+export { default } from 'ember-styleguide/components/ember-header/component';
